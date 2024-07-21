@@ -1,0 +1,10 @@
+{
+    "name": "projets/tableau_dynamique",
+    "autoload": {
+        "psr-4": {
+            "app\\":"Class/"
+        }
+    },
+    "require": {}
+
+}
