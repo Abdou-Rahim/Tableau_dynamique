@@ -6,6 +6,7 @@ use app\Helper\{
     TableHelper,
     URLHelper
 };
+//--------------------- Initialiser la base de donnees -------------------------
     
 $bdd = new PDO("mysql:host=localhost;dbname=products", "root", "");
 
